@@ -9,7 +9,7 @@
         demo:"https://magarajam.com/game/1999732437449442304",
         git:"#"},
       {id:2,title:"Rocket Team",
-        tags:["roket"],
+        tags:["rocket"],
         desc:"Teknofest Rocket Competition",
         thumb:"Rocket.jpg",
         demo:"#",
