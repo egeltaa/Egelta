@@ -8,7 +8,7 @@
         thumb:"I em Kewin.jpg",
         demo:"https://magarajam.com/game/1999732437449442304",
         git:"#"},
-      {id:2,title:"Roket Takımı",
+      {id:2,title:"Rocket Team",
         tags:["roket"],
         desc:"Teknofest Rocket Competition",
         thumb:"Rocket.jpg",
