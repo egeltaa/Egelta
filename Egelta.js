@@ -14,12 +14,6 @@
         thumb:"Rocket.jpg",
         demo:"#",
         git:"#"},
-      {id:3,title:"Andy's Story",
-        tags:["Renpy","game"],
-        desc:"Visual Novel Game (Under development)",
-        thumb:"Andy.png",
-        demo:"#",
-        git:"#"},
     ];
 
     const grid = document.getElementById('projects-grid');
