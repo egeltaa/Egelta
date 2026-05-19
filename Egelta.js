@@ -14,6 +14,12 @@
         thumb:"Rocket.jpg",
         demo:"#",
         git:"#"},
+      {id:3,title:"Tubitak 4006",
+        tags:["edebiyat","harita","tubitak"],
+        desc:"İstanbul'un Edebiyat Köşeleri",
+        thumb:"Tubitak4006.jpg",
+        demo:"https://egeltaa.github.io/Tubitak-4006-Harita",
+        git:"https://github.com/egeltaa/Tubitak-4006-Harita"}
     ];
 
     const grid = document.getElementById('projects-grid');
